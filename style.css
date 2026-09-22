@@ -1,0 +1,30 @@
+body {
+  background-color: #1a1a1a;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+h1{
+    color: green;
+
+}
+h2{
+
+    color: greenyellow;
+}
+
+button{
+  padding: 20px;
+   background-color: white;
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+
+  transition: 0.3s;
+}
+
+.descripcion{
+
+  border: 2px solid yellow
+}
